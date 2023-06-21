@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # 用于快速重命名全部文件
 
 # let i1=1
